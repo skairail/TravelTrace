@@ -1,5 +1,6 @@
 import React from "react";
-import styles from "./Sidebar.module.css";
+// import styles from "./Sidebar/Sidebar.module.css";
+import styles from "../Sidebar/Sidebar.module.css";
 
 export default function Footer() {
   return (
